@@ -1,0 +1,12 @@
+psycopg2~=2.9.3
+fastapi~=0.81.0
+
+# Type annotation
+asgiref==3.5.2
+
+# Explicit optionals
+wsproto==1.1.0
+
+# Packaging
+build==0.8.0
+twine==4.0.1
