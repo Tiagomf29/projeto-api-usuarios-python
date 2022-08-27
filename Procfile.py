@@ -1,1 +1,1 @@
-web: uvicorn controller.UserController:app --reload
+web: uvicorn UserController:app --reload
